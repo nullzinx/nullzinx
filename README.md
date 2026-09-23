@@ -1,6 +1,6 @@
-<h1>Welcome, I'm nullzin</h1>
-<p align="center">
-  Software Developer · Backend · Systems · Cybersecurity
+
+<p>
+Software Developer · Backend · Systems · Cybersecurity
 </p>
 
 ## Tech Stack
