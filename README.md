@@ -31,8 +31,3 @@ i wrote my first script in Lua at 11 and have been programming since then.
 
 --- 
 
-## Contact
-
-- Email: nullzin@tutamail.com
-- GitHub: https://github.com/nullzinx
-
