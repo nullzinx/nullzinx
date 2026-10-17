@@ -1,0 +1,21 @@
+# nullzinx
+
+> nullzinx (formerly known as voidh7) is a Brazilian developer and security researcher. He started programming in Lua at age 11 and is currently studying Computer Science and Hacking. His technical interests include web development, malware development and analysis, web hacking, binary exploitation, and OSINT.
+
+## Public Projects (nullzinx)
+- [Lazy Kiber](https://github.com/nullzinx/lazy_kiber): A script designed to bypass download restrictions in private Telegram groups.
+- [Vengeancet RAT](https://github.com/nullzinx/vengeancet_rat): A remote access trojan (RAT) project built around Telegram-based communication.
+- The Younger Sister: A private OSINT tool featuring scrapers for government websites, public APIs, and Telegram.
+
+## Operation Blue Room
+- **Description:** An initiative carried out by my team (iwaguras) to disrupt the activities of an online group known as "Red Room"  The group was reportedly involved in distributing child sexual abuse material (CSAM), extortion, and hate speech targeting minorities.
+- **Reported Outcomes:** 7 cybercriminals reportedly taken down or arrested. 2 team accounts were lost during the operation.
+
+## Previous Projects (Alias: voidh7)
+- [NglSpam](https://github.com/voidh7/NglSpam): A mass-spamming script for the NGL platform, used by online communities.
+- [Farm-amcr](https://github.com/voidh7/Farm-amcrBot): An implementation of the Amoracoin (AMCR) mining protocol to facilitate exchanges among game development communities.
+- [Logger-hell](https://github.com/voidh7/Logger-hell): A web logging tool designed to collect camera data, GPS location, and system fingerprints, going beyond traditional IP logging.
+- [Sherma DDoS Tool](https://github.com/voidh7/sherma-ddos-tool): An HTTP flooding tool focused on denial-of-service (DDoS) techniques.
+
+## Official Profiles
+- [nullzinx on GitHub](https://github.com/nullzinx)
