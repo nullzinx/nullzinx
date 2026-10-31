@@ -38,10 +38,13 @@ I'm also interested in open-source software, digital privacy, and tools that giv
 ## `$ github-stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nullzinx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics for nullzinx" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullzinx&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages on public repositories" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=nullzinx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="GitHub statistics for nullzinx" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nullzinx&layout=compact&hide_border=true&theme=transparent"
+    alt="Most-used languages on public repositories" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nullzinx&hide_border=true&theme=transparent" alt="GitHub contribution streak for nullzinx" />
 </p>
