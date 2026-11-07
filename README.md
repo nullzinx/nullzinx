@@ -5,7 +5,6 @@
 
 # `nullzinx`
 
-**Backend Development · Systems Programming · Cybersecurity · Automation**
 
 *Building tools. Exploring systems. Learning by doing.*
 
